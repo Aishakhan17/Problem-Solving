@@ -1,6 +1,4 @@
 # Check if a string contains valid parenthesis.
-
-
 def is_valid_parenthesis(test_case):
     parenthesis_pairs = {"{": "}", "(": ")", "[": "]"}
     stack = []  # implement last in first out
